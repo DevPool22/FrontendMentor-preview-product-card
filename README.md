@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/LDevJ/FrontendMentor-preview-product-card]
-- Live Site URL: [Add live site URL here]
+- Live Site URL: [https://frontendmentor-preview-product-card-m.netlify.app/]
 
 ## My process
 
