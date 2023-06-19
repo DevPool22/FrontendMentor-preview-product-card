@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![solution-desktop](../product-card-2/images/image-product-desktop.jpg)
-![solution-mobile](../product-card-2/images/image-product-mobile.jpg)
+![solution-desktop](images/image-product-desktop.jpg)
+![solution-mobile](images/image-product-mobile.jpg)
 
 
 ### Links
